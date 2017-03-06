@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
 
-        echo("hofhso");
+        echo("hofhhgtyhtso");
         echo("12fghyfgyfygd ifd i");
         
         ?>
