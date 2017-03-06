@@ -14,7 +14,7 @@ and open the template in the editor.
         // put your code here
 
         
-        echo("12fgd ifd i");
+        echo("12fghyfgyfygd ifd i");
         
         ?>
     </body>
