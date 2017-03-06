@@ -12,12 +12,10 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+
         
+        echo("12fgd ifd i");
         
-        echo('213fdyhfdohfp');
-        
-        
-        echo('gfdnspgndignid');
         ?>
     </body>
 </html>
